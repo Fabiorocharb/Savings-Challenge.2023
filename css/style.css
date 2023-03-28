@@ -13,6 +13,7 @@ body {
 main {
   margin-left: 7%;
   margin-top: -2%;
+  /*transition: 2s;*/
 }
 h1 {
   font-family: Eczar-SemiBold;
@@ -41,12 +42,13 @@ h2 {
   padding: 1%;
 }
 .table {
+  background-color: white;
   display: grid;
   grid-template-columns: auto auto auto;
   font-size: 2vh;
   margin-left: 5%;
   margin-right: 60%;
-  border: 2px solid black;
+  border: 2px ridge black;
 }
 .month {
   border: 1px solid black;
@@ -56,4 +58,15 @@ img {
   width: 48%;
   margin-left: 50%;
   margin-top: -25%;
+}
+
+@media screen and (max-width: 1536px) and (min-width: 864px) {
+  h1 {
+    margin-right: 50%;
+  }
+  main {
+    margin-left: 2%;
+  }
+  h2 {
+    margin-right: 55%;
 }
