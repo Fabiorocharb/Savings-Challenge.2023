@@ -1,0 +1,59 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: Eczar-SemiBold;
+  src: url(../fonts/Eczar-SemiBold.ttf);
+}
+body {
+  background-color: #c9e265;
+}
+main {
+  margin-left: 7%;
+  margin-top: -2%;
+}
+h1 {
+  font-family: Eczar-SemiBold;
+  font-size: 6vh;
+  text-align: center;
+  margin-right: 43%;
+  margin-bottom: 5%;
+  margin-top: 7%;
+}
+h2 {
+  font-family: Eczar-SemiBold;
+  font-size: 5vh;
+  text-align: center;
+  margin-right: 45%;
+  margin-top: -10%;
+}
+.mes {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 6%;
+  margin-top: 2%;
+}
+.valor {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  margin-left: 45%;
+  margin-top: 8%;
+  padding: 1%;
+}
+.table {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  font-size: 2vh;
+  margin-left: 5%;
+  margin-right: 60%;
+  border: 2px solid black;
+}
+.month {
+  border: 1px solid black;
+  height: 100%;
+}
+img {
+  width: 48%;
+  margin-left: 50%;
+  margin-top: -25%;
+}
