@@ -58,15 +58,25 @@ img {
   width: 48%;
   margin-left: 50%;
   margin-top: -25%;
+  border-radius: 10%;
 }
 
 @media screen and (max-width: 1536px) and (min-width: 864px) {
+ 
   h1 {
-    margin-right: 50%;
+    display: flexbox;
+    position: absolute;
+    width: 48%;
+    margin-right: 60%;
+    margin-top: -7%;
+  }
+  .table {
+    margin-top: 20%;
   }
   main {
     margin-left: 2%;
   }
   h2 {
     margin-right: 55%;
+}
 }
