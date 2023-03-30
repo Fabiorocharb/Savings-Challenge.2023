@@ -13,7 +13,6 @@ body {
 main {
   margin-left: 7%;
   margin-top: -2%;
-  /*transition: 2s;*/
 }
 h1 {
   font-family: Eczar-SemiBold;
@@ -62,7 +61,6 @@ img {
 }
 
 @media screen and (max-width: 1536px) and (min-width: 864px) {
- 
   h1 {
     display: flexbox;
     position: absolute;
@@ -78,5 +76,23 @@ img {
   }
   h2 {
     margin-right: 55%;
+  }
 }
+@media screen and (max-width: 1440px) and (min-width: 900px) {
+  h1 {
+    font-size: 5vh;
+  }
+  img {
+    display: flexbox;
+    position: absolute;
+    float: none;
+    width: 48%;
+    margin-left: 50%;
+    margin-top: -22%;
+    border-radius: 10%;
+  }
+  h2 {
+    font-size: 4vh;
+    margin-top: 8%;
+  }
 }
