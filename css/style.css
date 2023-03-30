@@ -81,18 +81,27 @@ img {
 @media screen and (max-width: 1440px) and (min-width: 900px) {
   h1 {
     font-size: 5vh;
+    margin-top: 20%;
+    margin-left: 2%;
   }
-  img {
+  /*Tamanho da imagem da tabela*/
+  .table {
+    width: 110%;
+  }
+  /*vai mover a tabela*/
+  main {
     display: flexbox;
     position: absolute;
-    float: none;
-    width: 48%;
-    margin-left: 50%;
-    margin-top: -22%;
+    width: 40%;
+    margin-top: 18%;
+  }
+  img {
+    margin-top: 15%;
     border-radius: 10%;
   }
   h2 {
     font-size: 4vh;
-    margin-top: 8%;
+    margin-top: -7%;
+    margin-left: 2%;
   }
 }
