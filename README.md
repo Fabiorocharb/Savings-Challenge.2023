@@ -11,7 +11,8 @@
 
 <img src="https://img.shields.io/bower/l/html?style=flat-square"/>
 
-<h2>🎥 Gif da página: </h2>
+<h2>🎥 Gif da página: </h2> 
+Loading...
 
 <h2>🔗 Link do site: </h2>
 
