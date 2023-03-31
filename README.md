@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/106245486/228216107-3283d99c-3d79-4399-894d-42fa9dda6983.png" />
 </div>
 
-> ****Status do projeto****: Homem trabalhando 🔧
+> ****Status do projeto****: completo ✅
 
 <h2> 🎯 Objetivo do projeto:</h2>
 
@@ -12,8 +12,6 @@
 <img src="https://img.shields.io/bower/l/html?style=flat-square"/>
 
 <h2>🎥 Gif da página: </h2>
-
-Homem trabalhando 🔧
 
 <h2>🔗 Link do site: </h2>
 
